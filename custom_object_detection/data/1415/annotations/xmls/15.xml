@@ -1,0 +1,26 @@
+<annotation>
+	<folder>zoho_img</folder>
+	<filename>15.jpg</filename>
+	<path>data/1415/images/15.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>900</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>zoho</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>588</xmin>
+			<ymin>199</ymin>
+			<xmax>845</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
